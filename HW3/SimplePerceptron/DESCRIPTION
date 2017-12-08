@@ -1,0 +1,11 @@
+Package: SimplePerceptron
+Type: Package
+Title: Simple Perceptron
+Version: 0.1.0
+Author: Sasanka Abeysinghe <sasanka.abeysinghe@ttu.edu>
+Maintainer: Sasanka Abeysinghe <sasanka.abeysinghe@ttu.edu>
+Description: R package that implements a simple perceptron.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
